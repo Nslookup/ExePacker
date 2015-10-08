@@ -15,3 +15,4 @@ from http://www.xakep.ru/post/57584/
 * add setup
 * use new version pefile library
 * add unit test with corcami and win cl tests
+* use yasm?
