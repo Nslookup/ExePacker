@@ -10,3 +10,8 @@ from http://www.xakep.ru/post/57584/
 4)run packer.py
 5)????
 6)profit :)
+
+## TODO
+* add setup
+* use new version pefile library
+* add unit test with corcami and win cl tests
